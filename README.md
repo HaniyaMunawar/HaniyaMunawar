@@ -1,3 +1,23 @@
+![logo](https://github.com/HaniyaMunawar/codewithhaniya/blob/main/HI%20I%E2%80%99M%20HANIYA.png))
+<h1 align="center">Hi 👋, I'm Haniya Munawar</h1>
+<h3 align="center">A passionate frontend developer from Karachi, Pakistan</h3>
+<img align="right"alt="Coding"width="400"src="https://camo.githubusercontent.com/f8561052d5519d5b219d3d02cdf56d0969d2cdab435e6739ba6b7cb26866f5fe/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f646973702f3630313031343131363737303437352e363036386265666634363430612e676966">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=haniyamunawar&label=Profile%20views&color=0e75b6&style=flat" alt="haniyamunawar" /> </p>
+
+- 🔭 I’m currently working on **my assignments**
+
+- 🌱 I’m currently learning **courses**
+
+- 👨‍💻 All of my projects are available at [https://haniya-munawar-portfolia.netlify.app](https://haniya-munawar-portfolia.netlify.app)
+
+- 💬 Ask me about **HTML, CSS, JS, BOOTSTRAP 5 and MEDIAQUERY**
+
+- 📫 How to reach me **seemamunawar121@gmail.com**
+
+- ⚡ Fun fact **I am funny**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/github.com/haniyamunawar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="github.com/haniyamunawar" height="30" width="40" /></a>
 <a href="https://fb.com/github.com/haniyamunawar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="github.com/haniyamunawar" height="30" width="40" /></a>
