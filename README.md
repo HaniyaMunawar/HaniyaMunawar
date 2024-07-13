@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **courses**
 
-- 👨‍💻 All of my projects are available at [https://github.com/HaniyaMunawar]
+- 👨‍💻 All of my projects are available at https://github.com/HaniyaMunawar
 
 - 💬 Ask me about **HTML, CSS, JS, BOOTSTRAP 5 and MEDIAQUERY**
 
