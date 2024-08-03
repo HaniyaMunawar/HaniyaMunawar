@@ -13,8 +13,6 @@
 
 - 💬 Ask me about **HTML, CSS, JS, BOOTSTRAP 5 and MEDIAQUERY**
 
-- 📫 How to reach me **seemamunawar121@gmail.com**
-
 - ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
