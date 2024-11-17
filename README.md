@@ -1,7 +1,6 @@
 ![logo](https://github.com/HaniyaMunawar/HaniyaMunawar/blob/main/HI%20I%E2%80%99M%20HANIYA.png)
 <h1 align="center">Hi 👋, I'm Haniya Munawar</h1>
 <h3 align="center">A passionate frontend developer from Karachi, Pakistan</h3>
-<img align="right"alt="Coding"width="400"href=[https://i.pinimg.com/originals/5c/c1/0e/5cc10ea76f386b99efe51437ba285e67.gif]">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haniyamunawar&label=Profile%20views&color=0e75b6&style=flat" alt="haniyamunawar" /> </p>
 
