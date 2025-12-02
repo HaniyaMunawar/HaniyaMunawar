@@ -13,7 +13,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/haniyamunawar" target="_blank">
+  <a href="https://www.linkedin.com/in/haniya-munawar-424649309/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
   </a>
 </p>
@@ -26,10 +26,11 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel‑000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </p>
 
-<h3 align="center">Fun Stats:</h3>
+<h3 align="center">Github Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haniyamunawar&show_icons=true&theme=radical&hide_title=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haniyamunawar&theme=radical" alt="GitHub Streak" />
 </p>
+
