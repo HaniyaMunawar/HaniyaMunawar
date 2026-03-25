@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **new courses**
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/HaniyaMunawar)
 - 💬 Ask me about **HTML, CSS, JS, Bootstrap 5, Media Queries, and React**
-- ⚡ Fun fact: **I am funny**
+- ⚡ Fun fact: **I am not funny**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
